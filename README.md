@@ -12,9 +12,10 @@ I am currently working on Magento 2 and React projects at [Reflet & Co.](https:/
 
 **Main projects :**
 
-- [✨ dbout/wp-orm](https://github.com/dimitriBouteille/wp-orm) : WordPress ORM with Eloquent.
-- [⚡ dbout/wp-module-hook](https://github.com/dimitriBouteille/wp-module-hook) : WordPress library to manage actions and filters.
-- [🚀 dbout/wp-module-rest-api](https://github.com/dimitriBouteille/wp-module-rest-api) : Quickly add routes to the WordPress Rest API.
+- [✨ dbout/wp-orm](https://github.com/dimitriBouteille/wp-orm) - WordPress ORM with Eloquent.
+- [⚡ dbout/wp-module-hook](https://github.com/dimitriBouteille/wp-module-hook) - WordPress library to manage actions and filters.
+- [🚀 dbout/wp-module-rest-api](https://github.com/dimitriBouteille/wp-module-rest-api) - Quickly add routes to the WordPress Rest API.
+- [🔥 dbout/dendreo-sdk-php](https://github.com/dimitriBouteille/dendreo-sdk-php) - Dendreo API Library for PHP. 
 
 **Skills:**
 
